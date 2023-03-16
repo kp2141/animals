@@ -1,3 +1,11 @@
+# About mini Project!
+
+Image of the project
+
+![Animal](https://user-images.githubusercontent.com/26798743/225754905-362f5fa0-ccd7-44f6-8ed9-ac6e67af91c3.PNG)
+
+In this Project when we click the heart of the image. Heart size of the particulat image will be incresed. We can add more Images by clicking the add image and Images are choosen randomly. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
